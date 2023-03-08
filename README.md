@@ -7,3 +7,5 @@
 ---
 
 ## Week 2
+
+![](images/Week2-1.png)
